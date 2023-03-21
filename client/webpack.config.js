@@ -21,7 +21,7 @@ module.exports = () => {
         template: './index.html',
         title: 'J.A.T.E'
       }),
-      
+
       new InjectManifest({
         swSrc: './src-sw.js',
         swDest: 'src-sw.js'
@@ -49,7 +49,7 @@ module.exports = () => {
     // CSS loaders and babel to webpack.
     module: {
       rules: [
-
+        
       ],
     },
   };
