@@ -38,5 +38,6 @@
   "start_url": "./",
   "description": "Your simplified text editor!",
   "background_color": "#003366",
-  "theme_color": "#FFFF00"
+  "theme_color": "#FFFF00",
+  "id": "/"
 }
