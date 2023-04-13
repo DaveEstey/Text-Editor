@@ -1,4 +1,4 @@
-# Text Edito
+# Text Editor
 
 ## Description
   
