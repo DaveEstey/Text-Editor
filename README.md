@@ -18,7 +18,7 @@ This project is to be used as an understanding of how to use to make PWAs using 
 
 ## Installation
   
-nmp install
+npm install
   
 ## Usage
  
